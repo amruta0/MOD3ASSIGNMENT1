@@ -1,1 +1,1 @@
-this is file1 in feature branch
+modifying feature1 branch hence resolving conflict
